@@ -1,6 +1,6 @@
 # Mr Potatohead
 
-This app was made as part of the CS50 Web Track course.
+This app was made as part of the CS50 Android Track course.
 
 ### Content:
 In the app there is a list of body parts of Mr. Potato. The user can click and unclick the checkboxes, after which the corresponding body parts appear or disappear.
